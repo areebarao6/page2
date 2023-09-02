@@ -1,0 +1,172 @@
+#header{
+    background-color: blue;
+    height: 500px;
+    color: aliceblue;
+     position: relative; 
+    padding-left: 50px;
+   padding-right: 50px;
+  
+}
+#hover:hover{
+background-color: aquamarine;
+}
+ 
+
+#a1{
+    padding-right: 700px;
+}
+a{
+padding-right: 30px;
+}
+#p1{
+    font-size: xx-large;
+    padding-top: 100px;
+    font-style: bold;
+
+    padding-right: 50px;
+    padding-bottom: 0px`;
+}
+#pp{
+    font-size: xx-large;
+    padding-top: 0px;
+    font-style: bold;
+
+    padding-right: 50px;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+    border-color: aliceblue;
+   
+    
+}
+#div2{
+    height: 400px;
+    background-color: rgb(240, 240, 240);
+    display: inline;
+   
+   
+}
+#div3{
+    height: 200px;
+    background-color: darkblue;
+  }
+    
+
+
+#p3{
+    color: aliceblue;
+ font-size: x-large;
+padding-left: 350px;
+padding-right: 350px;
+padding-top: 50px;
+padding-bottom: 0%;}
+#p4{font-size: x-large;
+    color: yellow;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 0%;
+}
+#container{
+  
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    
+   
+    
+}
+
+#div4{
+    background-color: rgb(202, 71, 115);
+    color:blue; 
+    height: 200px;
+    width: 150px;
+    border: black;
+    text-align-last: left;
+    
+   
+}
+#div5{ 
+    background-color: yellow;
+    color:blue; 
+    height: 200px;
+    width: 150px;
+    border: black;
+  
+   }
+#div6{ 
+
+
+height: 200px;
+width: 150px;
+border: black;
+background-color: rgb(5, 177, 245);
+color:blue; }
+#div7{
+ 
+height: 200px;
+width: 150px;
+border: black;  
+background-color: rgb(182, 180, 180);
+color:blue
+ 
+} 
+#para{
+    margin-left: 15px;
+}
+#box {
+    background-color: black;  
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    right: 200px;
+    top: 150px;
+    bottom: 500px;
+    background-image: url(9.png);
+    background-size: cover;
+
+  }#p5{
+    color: aliceblue;
+ font-size: x-large;
+padding-left: 350px;
+padding-right: 350px;
+
+}
+  
+ 
+  
+  #p2{  color: darkblue;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: bold;
+    padding-left: 500px;
+    padding-right: 300px;
+    padding-top: 50px; 
+    font-size: xx-large}
+    h3{
+        font-size: large;
+        margin-top: 60px;
+        margin-left: 20px;
+    }
+    #inner{background-color: rgb(190, 26, 89);
+         width: 50px;
+         height: 50px;
+         display: flex;
+        justify-self: center;}
+        td{ background-color: blueviolet;
+            border:  2px  solid black ;
+           border-collapse: calc(56);
+            empty-cells: show;
+            padding: 40px;
+            }
+       #img{float: right;
+        margin-right: 20px;
+        width: 200px;
+        height: 200px;
+        
+
+       }
+        
